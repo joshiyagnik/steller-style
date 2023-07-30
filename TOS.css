@@ -1,0 +1,71 @@
+.tos {
+    margin: 30px;
+    font-weight: bolder;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.term {
+
+    justify-content: center;
+
+}
+
+.term p {
+    text-align: center;
+}
+
+.term ol {
+    width: fit-content;
+    max-width: 80%;
+    margin: 0 auto;
+
+}
+
+.term ol li {
+    margin-block: 15px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.return {
+    font-weight: bolder;
+    text-align: center;
+    font-size: xx-large;
+    margin: 50px;
+}
+
+.p {
+    text-align: center;
+}
+
+.pl {
+    text-align: center;
+    font-size: 20px;
+}
+
+.content ol {
+    width: fit-content;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.content ol li {
+    margin-block: 15px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.top {
+    font-weight: bolder;
+    text-align: center;
+    font-size: xx-large;
+    margin: 50px;
+
+}
+
+.text{
+    text-align: justify;
+    margin: 0;
+    padding: 25px;
+}

@@ -1,0 +1,43 @@
+h1{
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+.about-main{
+    padding: 30px;
+}
+.about-content{
+    padding: 20px;
+    justify-content: center;
+
+}
+.about-content1{
+    padding: 20px;
+    justify-content: center;
+
+}
+.about-content2{
+    padding: 20px;
+    justify-content: center;
+    
+
+}
+.about-content3{
+    padding: 20px;
+    justify-content: center;
+
+}
+.about-content4{
+    padding: 20px;
+    justify-content: center;
+
+}
+.about-content5{
+    padding: 20px;
+    justify-content: center;
+
+}
